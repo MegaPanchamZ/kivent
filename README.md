@@ -6,6 +6,9 @@ An entity-component architecture is used to control game object state and the lo
 
 KivEnt is built with a modular architecture and designed to have both a python api and a c-level cython api that allows more performant access to your game data. This makes it suitable for quickly prototyping a mechanic completely in python, and relatively trivial to then deeply cythonize that GameSystem if you find it to be performance sensitive. This process has already been done for the built-in components meaning they are ready for you to build new, performant game systems on top of them.
 
+## Project Revitalise
+So This project has been pretty down in the dumps, and needs some love. If you love KivEnt and have the technical know-how please have a go at it. Im sure the community will thank you for it. In the mean time, I will work on this. 
+
 ## Project Website: 
 http://www.kivent.org
 
