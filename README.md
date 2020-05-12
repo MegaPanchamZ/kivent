@@ -99,42 +99,19 @@ Assuming you have KivEnt in the root folder for the portable package, in the kiv
     python main.py
 
 ## Tested On:
-Tested with [master branch](https://github.com/kivy/kivy). Python 2.7 and Python 3.4.
+Tested with [master branch](https://github.com/kivy/kivy). Python 3.7
 
-Tested on Android, Ubuntu, Windows, OSX; iOS coming soon!
+Tested on Windows
 
 Support
 -------
 
-If you need assistance, you can ask for help on our mailing list:
-
-* User Group : https://groups.google.com/group/kivent
-* Email      : kivent@googlegroups.com
-
-We also have an IRC channel:
-
-* Server  : irc.freenode.net
-* Port    : 6667, 6697 (SSL only)
-* Channel : #kivy
+None ATM
 
 Contributing
 ------------
 
-We love pull requests and discussing novel ideas. Check out our
-[contribution guide](http://kivy.org/docs/contribute.html) and
-feel free to improve KivEnt.
-
-The following mailing list and IRC channel are used exclusively for
-discussions about developing the Kivy framework and its sister projects:
-
-* Dev Group : https://groups.google.com/group/kivy-dev
-* Email     : kivy-dev@googlegroups.com
-
-IRC channel:
-
-* Server  : irc.freenode.net
-* Port    : 6667, 6697 (SSL only)
-* Channel : #kivy-dev
+Want to help? submit a pull request.
 
 License
 -------
