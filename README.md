@@ -26,7 +26,7 @@ KivEnt is split into modules, the core module, 'kivent_core', is dependent only 
 
 Other modules may have other dependecies, listed here:
 
-### kivent_core:
+### kivent_core: <--- Only One tested
 * [kivy](https://github.com/kivy/kivy)
 
 ### kivent_cymunk:
